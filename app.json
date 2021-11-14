@@ -1,15 +1,15 @@
 {
     "name": "AnyChecker Bot",
     "description": "A Telegram Bot Made In Pure PHP with Several Features!",
-    "logo": "https://telegra.ph/file/0b1d5cb8deeec7a506154.jpg",
+    "logo": "https://telegra.ph/file/e5315c9085fb2a3216565.jpg",
     "keywords": [
         "Telegram",
         "Bot",
         "Modular"
     ],
     "website": "https://telegram.me/AnyCheckerBot",
-    "repository": "https://github.com/IndianBots/AnyCheckerBot",
-    "success_url": "https://telegram.me/IndianBots",
+    "Devloper": "https://t.me/KaNeKi354_bot",
+    "success_url": "https://t.me/KaNeKi354_bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Enter your Bot Token Here. Get it from @Botfather",
